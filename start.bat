@@ -1,0 +1,1 @@
+python task2.py -n syn -v 2.0.73

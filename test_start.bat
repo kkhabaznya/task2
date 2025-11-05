@@ -1,0 +1,1 @@
+python task2.py -m a -n SYN -v 1.0.0

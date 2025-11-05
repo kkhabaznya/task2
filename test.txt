@@ -1,0 +1,11 @@
+{"name":"SYN","vers":"1.0.0","deps":[{"name":"TEST","req":"1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"NOTE","req":"1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"SEARCH","req":"1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"BASE64","req":"1.0.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"96d2cff1612af35d61bbf629f7017b55d661dcef9fc1ce992bd2f0c098a3374b"}
+{"name":"TEST","vers":"1.0.0","deps":[{"name":"NOTE","req":"1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"TEST-CORE","req":"1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"96d2cff1612af35d61bbf629f7017b55d661dcef9fc1ce992bd2f0c098a3374b"}
+{"name":"NOTE","vers":"1.0.0","deps":[{"name":"PAD","req":"1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}]}
+{"name":"PAD","vers":"1.0.0","deps":[{"name":"SEARCH","req":"1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"RECURSION","req":"1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}]}
+{"name":"SEARCH","vers":"1.0.0","deps":[{"name":"UNICODE","req":"1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"BASE64","req":"1.0.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}]}
+{"name":"BASE64","vers":"1.0.0","deps":[]}
+{"name":"TREE","vers":"1.0.0","deps":[{"name":"TEST","req":"1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}]}
+{"name":"RECURSION","vers":"1.0.0","deps":[{"name":"MATPLOTLIB","req":"1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}]}
+{"name":"MATPLOTLIB","vers":"1.0.0", "deps":[]}
+{"name":"TEST-CORE","vers":"1.0.0","deps":[]}
+{"name":"UNICODE","vers":"1.0.0","deps":[]}
